@@ -1,5 +1,5 @@
 
-# Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20vh" height="20vh" >
+# Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30vh" height="30vh" >
 
   
 
