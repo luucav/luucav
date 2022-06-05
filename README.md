@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Typescript and React Native**
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React, WordPress**
-- ⚡ Fun fact: 
 -  📫 How to reach me: **ronaldolucas12315@gmail.com**
 
 <br><br>
