@@ -40,9 +40,9 @@
   
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-between">
  
-<img width="540px" align="left" alt="Github stats card" src="https://github-readme-stats.vercel.app/api?username=luucav&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" />
+<img width="440px" align="left" alt="Github stats card" src="https://github-readme-stats.vercel.app/api?username=luucav&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" />
 <p align="left">
-<img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucav&layout=compact&theme=material-palenight&count_private=true&hide_border=true" alt="luucav's most languages"/>
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucav&layout=compact&theme=material-palenight&count_private=true&hide_border=true" alt="luucav's most languages"/>
 </p>
   
 
