@@ -56,10 +56,10 @@
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/luucas-viana" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-luucas-viana-05122A?style=flat&logo=codepen" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-luucas.viana-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://twitter.com/rluuca_v" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-rluucas_v-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-rluucas.v-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/ronaldo-lucas" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ronaldo_lucas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
